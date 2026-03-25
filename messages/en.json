@@ -1,0 +1,146 @@
+{
+  "navbar": {
+    "links": {
+      "home": "Home",
+      "menu": "Menu",
+      "reservation": "Reservation",
+      "gallery": "Gallery",
+      "career": "Career"
+    },
+    "reserveTable": "Reserve Table",
+    "switchToEnglish": "Switch to English",
+    "switchToGerman": "Switch to German"
+  },
+  "footer": {
+    "description": "A Culinary Journey Through the Flavors of India and the Himalayas. Experience authentic spices and traditional cooking in an elegant setting.",
+    "newsletterTitle": "Join Our Newsletter",
+    "newsletterPlaceholder": "Your email address",
+    "newsletterButton": "Subscribe",
+    "quickLinksTitle": "Quick Links",
+    "links": {
+      "home": "Home",
+      "menu": "Menu",
+      "reservation": "Reservation",
+      "gallery": "Gallery",
+      "careers": "Careers",
+      "feedback": "Feedback",
+      "contact": "Contact"
+    },
+    "contactTitle": "Contact Us",
+    "openingHoursTitle": "Opening Hours",
+    "openingHours": {
+      "weekdays": "Monday - Thursday: 11:30 - 22:00",
+      "weekend": "Friday - Sunday: 11:30 - 22:00"
+    },
+    "copyright": "© {year} Doaba Restaurant. All rights reserved.",
+    "newsletterThanks": "Thank you for subscribing to our newsletter."
+  },
+  "home": {
+    "hero": {
+      "subtitle": "Authentic Indian & Nepali Cuisine",
+      "tagline": "A Culinary Journey Through the Flavors of India and the Himalayas",
+      "reserveCta": "Reserve Table",
+      "menuCta": "View Menu"
+    },
+    "about": {
+      "eyebrow": "Our Story",
+      "title": "A Heritage of Spices & Tradition",
+      "paragraph1": "At Doaba, we bring the rich, vibrant flavors of India and the majestic culinary traditions of the Himalayas straight to your table. Our journey began with a simple desire: to share the authentic taste of our homeland.",
+      "paragraph2": "Every dish is a celebration of our heritage, crafted using traditional cooking methods and the finest, hand-selected spices. From the fiery tandoors of Punjab to the delicate momos of Nepal, we invite you to experience a symphony of flavors in an elegant, modern setting."
+    },
+    "signature": {
+      "eyebrow": "Culinary Masterpieces",
+      "title": "Signature Dishes",
+      "menuCta": "Explore Full Menu",
+      "dishes": {
+        "butterChicken": {
+          "name": "Butter Chicken",
+          "description": "Tender chicken simmered in a rich, creamy tomato gravy with aromatic spices."
+        },
+        "momo": {
+          "name": "Momo",
+          "description": "Steamed dumplings filled with spiced minced meat, served with a fiery tomato chutney."
+        },
+        "samosa": {
+          "name": "Samosa",
+          "description": "Crispy pastry filled with spiced potatoes and peas, served with tangy tamarind chutney."
+        },
+        "paneerTikka": {
+          "name": "Paneer Tikka",
+          "description": "Cubes of cottage cheese marinated in yogurt and spices, grilled with bell peppers and onions."
+        },
+        "dalMakhani": {
+          "name": "Dal Makhani",
+          "description": "Slow-cooked black lentils and kidney beans, enriched with butter and cream."
+        }
+      }
+    },
+    "gallery": {
+      "eyebrow": "Visual Experience",
+      "title": "Our Gallery",
+      "view": "View",
+      "enlargedImageAlt": "Enlarged Gallery Image"
+    },
+    "reviews": {
+      "eyebrow": "Guest Experiences",
+      "title": "Testimonials",
+      "previousAria": "Previous review",
+      "nextAria": "Next review",
+      "items": {
+        "first": {
+          "text": "The best Indian and Nepali food experience in the city. The Butter Chicken is simply divine, and the ambiance is breathtaking.",
+          "author": "Sarah Jenkins"
+        },
+        "second": {
+          "text": "An absolute gem! The Himalayan Momos transported me straight to Nepal. Exceptional service and a truly luxurious dining experience.",
+          "author": "Michael Chen"
+        },
+        "third": {
+          "text": "Every dish is a masterpiece. The attention to detail in both the food presentation and the restaurant decor is unmatched.",
+          "author": "Elena Rodriguez"
+        }
+      }
+    },
+    "location": {
+      "eyebrow": "Find Us",
+      "title": "Location & Hours",
+      "addressLabel": "Address",
+      "contactLabel": "Contact",
+      "openingHoursLabel": "Opening Hours",
+      "openingHours": {
+        "weekdays": "Monday - Thursday: 11:30 - 22:00",
+        "weekend": "Friday - Sunday: 11:30 - 22:00"
+      }
+    },
+    "reservation": {
+      "eyebrow": "Book Your Experience",
+      "title": "Reserve a Table",
+      "successMessage": "Thank you for choosing Doaba. We have received your request and will contact you shortly to confirm your booking.",
+      "fields": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "guests": "Number of Guests",
+        "date": "Date",
+        "time": "Time",
+        "requests": "Special Requests (Optional)"
+      },
+      "placeholders": {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "phone": "+1 (555) 000-0000",
+        "guests": "Select Guests",
+        "time": "Select Time",
+        "requests": "Allergies, dietary restrictions, special occasions..."
+      },
+      "person": "Person",
+      "people": "People",
+      "processing": "Processing...",
+      "submit": "Confirm Reservation",
+      "errors": {
+        "submitFailed": "Unable to submit reservation right now.",
+        "submitTryAgain": "Unable to submit reservation right now. Please try again."
+      }
+    }
+  }
+}

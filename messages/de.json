@@ -1,0 +1,146 @@
+{
+  "navbar": {
+    "links": {
+      "home": "Startseite",
+      "menu": "Speisekarte",
+      "reservation": "Reservierung",
+      "gallery": "Galerie",
+      "career": "Karriere"
+    },
+    "reserveTable": "Tisch reservieren",
+    "switchToEnglish": "Auf Englisch wechseln",
+    "switchToGerman": "Auf Deutsch wechseln"
+  },
+  "footer": {
+    "description": "Eine kulinarische Reise durch die Aromen Indiens und des Himalayas. Erleben Sie authentische Gewürze und traditionelle Kochkunst in elegantem Ambiente.",
+    "newsletterTitle": "Newsletter abonnieren",
+    "newsletterPlaceholder": "Ihre E-Mail-Adresse",
+    "newsletterButton": "Abonnieren",
+    "quickLinksTitle": "Schnellzugriff",
+    "links": {
+      "home": "Startseite",
+      "menu": "Speisekarte",
+      "reservation": "Reservierung",
+      "gallery": "Galerie",
+      "careers": "Karriere",
+      "feedback": "Feedback",
+      "contact": "Kontakt"
+    },
+    "contactTitle": "Kontakt",
+    "openingHoursTitle": "Öffnungszeiten",
+    "openingHours": {
+      "weekdays": "Montag - Donnerstag: 11:30 - 22:00",
+      "weekend": "Freitag - Sonntag: 11:30 - 22:00"
+    },
+    "copyright": "© {year} Doaba Restaurant. Alle Rechte vorbehalten.",
+    "newsletterThanks": "Vielen Dank für Ihre Newsletter-Anmeldung."
+  },
+  "home": {
+    "hero": {
+      "subtitle": "Authentische indische & nepalesische Küche",
+      "tagline": "Eine kulinarische Reise durch die Aromen Indiens und des Himalayas",
+      "reserveCta": "Tisch reservieren",
+      "menuCta": "Speisekarte ansehen"
+    },
+    "about": {
+      "eyebrow": "Unsere Geschichte",
+      "title": "Ein Erbe aus Gewürzen & Tradition",
+      "paragraph1": "Bei Doaba bringen wir die reichen, lebendigen Aromen Indiens und die majestätischen kulinarischen Traditionen des Himalayas direkt auf Ihren Tisch. Unsere Reise begann mit einem einfachen Wunsch: den authentischen Geschmack unserer Heimat zu teilen.",
+      "paragraph2": "Jedes Gericht ist eine Feier unseres Erbes, zubereitet mit traditionellen Kochmethoden und feinsten, handverlesenen Gewürzen. Von den feurigen Tandoors Punjabs bis zu den zarten Momos Nepals laden wir Sie ein, eine Symphonie der Aromen in einem eleganten, modernen Ambiente zu erleben."
+    },
+    "signature": {
+      "eyebrow": "Kulinarische Meisterwerke",
+      "title": "Signature-Gerichte",
+      "menuCta": "Komplette Speisekarte entdecken",
+      "dishes": {
+        "butterChicken": {
+          "name": "Butter Chicken",
+          "description": "Zartes Hähnchen in einer reichhaltigen, cremigen Tomatensauce mit aromatischen Gewürzen."
+        },
+        "momo": {
+          "name": "Momo",
+          "description": "Gedämpfte Teigtaschen mit würziger Fleischfüllung, serviert mit scharfem Tomaten-Chutney."
+        },
+        "samosa": {
+          "name": "Samosa",
+          "description": "Knuspriges Gebäck mit würzigen Kartoffeln und Erbsen, serviert mit Tamarinden-Chutney."
+        },
+        "paneerTikka": {
+          "name": "Paneer Tikka",
+          "description": "Paneerwürfel in Joghurt und Gewürzen mariniert, mit Paprika und Zwiebeln gegrillt."
+        },
+        "dalMakhani": {
+          "name": "Dal Makhani",
+          "description": "Langsam gegarte schwarze Linsen und Kidneybohnen, verfeinert mit Butter und Sahne."
+        }
+      }
+    },
+    "gallery": {
+      "eyebrow": "Visuelles Erlebnis",
+      "title": "Unsere Galerie",
+      "view": "Ansehen",
+      "enlargedImageAlt": "Vergrößertes Galeriebild"
+    },
+    "reviews": {
+      "eyebrow": "Erlebnisse unserer Gäste",
+      "title": "Bewertungen",
+      "previousAria": "Vorherige Bewertung",
+      "nextAria": "Nächste Bewertung",
+      "items": {
+        "first": {
+          "text": "Das beste indische und nepalesische Essenserlebnis der Stadt. Das Butter Chicken ist einfach göttlich und das Ambiente atemberaubend.",
+          "author": "Sarah Jenkins"
+        },
+        "second": {
+          "text": "Ein absolutes Juwel! Die Himalayan Momos haben mich direkt nach Nepal versetzt. Exzellenter Service und ein wirklich luxuriöses Dinner-Erlebnis.",
+          "author": "Michael Chen"
+        },
+        "third": {
+          "text": "Jedes Gericht ist ein Meisterwerk. Die Liebe zum Detail bei Präsentation und Restaurantdekor ist unvergleichlich.",
+          "author": "Elena Rodriguez"
+        }
+      }
+    },
+    "location": {
+      "eyebrow": "So finden Sie uns",
+      "title": "Standort & Öffnungszeiten",
+      "addressLabel": "Adresse",
+      "contactLabel": "Kontakt",
+      "openingHoursLabel": "Öffnungszeiten",
+      "openingHours": {
+        "weekdays": "Montag - Donnerstag: 11:30 - 22:00",
+        "weekend": "Freitag - Sonntag: 11:30 - 22:00"
+      }
+    },
+    "reservation": {
+      "eyebrow": "Buchen Sie Ihr Erlebnis",
+      "title": "Tisch reservieren",
+      "successMessage": "Vielen Dank, dass Sie sich für Doaba entschieden haben. Wir haben Ihre Anfrage erhalten und melden uns in Kürze zur Bestätigung.",
+      "fields": {
+        "name": "Vollständiger Name",
+        "email": "E-Mail-Adresse",
+        "phone": "Telefonnummer",
+        "guests": "Anzahl der Gäste",
+        "date": "Datum",
+        "time": "Uhrzeit",
+        "requests": "Besondere Wünsche (optional)"
+      },
+      "placeholders": {
+        "name": "Max Mustermann",
+        "email": "max@example.com",
+        "phone": "+49 000 0000000",
+        "guests": "Gäste auswählen",
+        "time": "Uhrzeit auswählen",
+        "requests": "Allergien, Ernährungswünsche, besondere Anlässe..."
+      },
+      "person": "Person",
+      "people": "Personen",
+      "processing": "Wird verarbeitet...",
+      "submit": "Reservierung bestätigen",
+      "errors": {
+        "submitFailed": "Reservierung kann derzeit nicht gesendet werden.",
+        "submitTryAgain": "Reservierung kann derzeit nicht gesendet werden. Bitte versuchen Sie es erneut."
+      }
+    }
+  }
+}
