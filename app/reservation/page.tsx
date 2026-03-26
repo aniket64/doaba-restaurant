@@ -1,7 +1,14 @@
-import { redirect } from 'next/navigation';
+'use client';
 
-export const dynamic = 'force-dynamic';
+import { useEffect } from 'react';
+import { useRouter } from 'next/navigation';
 
-export default function ReservationPage() {
-  redirect('/en/reservation');
+export default function Page() {
+  const router = useRouter();
+
+  useEffect(() => {
+    router.push('/en/reservation');
+  }, [router]);
+
+  return null;
 }

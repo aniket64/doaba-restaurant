@@ -1,3 +1,5 @@
-import ReservationPage from '@/app/reservation/page';
+import { ReservationSection } from '@/components/home/reservation-section';
 
-export default ReservationPage;
+export default function LocaleReservationPage() {
+	return <ReservationSection />;
+}
