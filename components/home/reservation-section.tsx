@@ -25,7 +25,7 @@ export function ReservationSection() {
     setSubmitError(null);
 
     try {
-      const response = await fetch('https://doaba-brandenburg.de/api/reservation.php', {
+      const response = await fetch('/api/reservations', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
