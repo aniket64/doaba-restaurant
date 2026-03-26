@@ -1,6 +1,8 @@
-'use client';
+import { redirect } from 'next/navigation';
 
-import { motion } from 'motion/react';
+export default function MenuPage() {
+  redirect('/en/menu');
+}
 import Image from 'next/image';
 
 const menuCategories = [

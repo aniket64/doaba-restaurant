@@ -1,6 +1,8 @@
-'use client';
+import { redirect } from 'next/navigation';
 
-import { useState } from 'react';
+export default function GalleryPage() {
+  redirect('/en/gallery');
+}
 import { motion, AnimatePresence } from 'motion/react';
 import Image from 'next/image';
 import { X } from 'lucide-react';

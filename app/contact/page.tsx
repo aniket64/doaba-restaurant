@@ -1,6 +1,8 @@
-'use client';
+import { redirect } from 'next/navigation';
 
-import { useState } from 'react';
+export default function ContactPage() {
+  redirect('/en/contact');
+}
 import { motion, AnimatePresence } from 'motion/react';
 import Image from 'next/image';
 import { useForm } from 'react-hook-form';

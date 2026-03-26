@@ -1,3 +1,10 @@
+import { redirect } from 'next/navigation';
+
+export default function CareersPage() {
+  redirect('/en/careers');
+}
+
+/*
 'use client';
 
 import { useState } from 'react';

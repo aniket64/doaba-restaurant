@@ -1,9 +1,5 @@
-import { ReservationSection } from '@/components/home/reservation-section';
+import { redirect } from 'next/navigation';
 
 export default function ReservationPage() {
-  return (
-    <div className="pt-24 min-h-screen bg-primary">
-      <ReservationSection />
-    </div>
-  );
+  redirect('/en/reservation');
 }
