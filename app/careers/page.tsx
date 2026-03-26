@@ -1,11 +1,10 @@
 import { redirect } from 'next/navigation';
 
+export const dynamic = 'force-dynamic';
+
 export default function CareersPage() {
   redirect('/en/careers');
 }
-
-/*
-'use client';
 
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
